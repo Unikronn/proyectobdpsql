@@ -1,0 +1,3 @@
+unikronn_citas_medicas_homepage:
+    path:     /
+    defaults: { _controller: UnikronnCitasMedicasBundle:Default:index }

@@ -1,3 +1,7 @@
+unikronn_citas_medicas:
+    resource: "@UnikronnCitasMedicasBundle/Resources/config/routing.yml"
+    prefix:   /
+
 app:
     resource: "@AppBundle/Controller/"
     type:     annotation
